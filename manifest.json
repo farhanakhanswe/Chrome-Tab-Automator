@@ -1,0 +1,12 @@
+{
+    "name": "Chrome Tab Automater Extension",
+    "description" : "Extension to automatically open urls",
+    "version": "1.0",
+    "manifest_version" : 3,
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
